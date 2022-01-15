@@ -1,7 +1,7 @@
 # test
 this is for git command demonstration...
 'code'
-  class Student{  
+ class Student{  
  int id;  
  String name;  
 }  
