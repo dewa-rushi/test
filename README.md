@@ -1,6 +1,6 @@
 # test
 this is for git command demonstration...
-<code>
+'code'
   class Student{  
  int id;  
  String name;  
@@ -13,4 +13,4 @@ class TestStudent2{
   System.out.println(s1.id+" "+s1.name);//printing members with a white space  
  }  
 }  
-<code>
+'code'
