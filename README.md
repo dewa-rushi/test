@@ -14,3 +14,6 @@ class TestStudent2{
  }  
 }  
 'code'
+
+## output
+101 Sonoo
